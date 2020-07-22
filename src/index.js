@@ -17,7 +17,8 @@ module.exports = function solveEquation(equation) {
       return m - n;
   }
 
+  console.log("hhvgh");
 
-    return ans.sort(sortNumber);// your implementation
+  return ans.sort(sortNumber);// your implementation
 }
 
